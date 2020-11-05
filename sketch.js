@@ -20,7 +20,7 @@ console.log(ground.position.x, ground.position.y);
 
 
 box1 = new Box(510,200,80,50);
-box2=new Box(540,50,90,60);x
+box2=new Box(540,50,90,60);
 Engine.run(engine);
 }
 
